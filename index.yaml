@@ -9,6 +9,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://github.com/salanisor/helm-charts/raw/main/.cr-release-packages/my-app-0.1.0.tgz
+    - my-app-0.1.0.tgz
     version: 0.1.0
 generated: "2023-07-05T14:05:23.277766846-05:00"
