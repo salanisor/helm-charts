@@ -11,4 +11,15 @@ entries:
     urls:
     - my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-05T14:05:23.277766846-05:00"
+  my-app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-06T14:24:55.574587648-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 016edecd66afe4f19f8e317a24b4d1dec3c743960db0a9f2e79d084f66e094a8
+    name: my-app2
+    type: application
+    urls:
+    - https://github.com/salanisor/helm-charts/releases/download/my-app2-0.2.0/my-app2-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-07-06T14:24:55.574603407-05:00"
